@@ -71,11 +71,16 @@
   bottom: 0;
 }
 
-.logo_place_header {
+.logo {
   background-image: url(../images/logo_place_header.svg);
-   height: 32px;
-   width: 228px;
-   background-size: cover;
+  height: 32px;
+  width: 228px;
+  background-size: cover;
+}
+
+.logo_place_header {
+
+
    position: absolute;
    top: 40px;
    left: 64px;
@@ -159,6 +164,7 @@
 
 .section-subtitle {
   padding-top: 20px;
+  padding-bottom: 60px;
   margin: 0 auto;
   width: 60%;
   text-align: center;
@@ -183,19 +189,23 @@
 
 .digits__table {
 
-  margin: 60px auto 100px;
+  margin: 0 auto;
 }
 
 .table__title {
+  margin: 0;
+  padding-bottom: 20px;
   font-size: 24px;
   font-weight: 600;
   line-height: 1.15;
 }
 
 .table__text {
+  margin: 0;
   font-size: 18px;
   font-weight: normal;
   line-height: 1.2;
+  padding-bottom: 20px;
 }
 
 
@@ -203,6 +213,7 @@
 
 
 .feynman {
+  padding-top: 100px;
   height: 890px;
   background-color: #f2f2f2;
   position: relative;
@@ -258,12 +269,19 @@
 
 .kaufman {
   position: relative;
-  padding-top: 100px;
+  padding: 90px 0 90px;
   margin: 0 auto;
-  background-color: rgb(34, 33, 33);
+  background-color:  #1f1f1f;
   overflow: hidden;
 }
 
+.section-title_theme_dark {
+  color: rgb(255, 255, 255);
+}
+
+.section-subtitle_theme_dark {
+  color: rgb(255, 255, 255);
+}
 
 
 .table__cell_theme_dark {
