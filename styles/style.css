@@ -86,14 +86,6 @@
   z-index: 3;
 }
 
-
-
-
-
-
-
-
-
 .description {
   padding-top: 100px;
   display: flex;
@@ -123,7 +115,6 @@
   width: 80%;
 }
 
-
 .two-columns__paragraph {
   margin: 0;
   line-height: 34px;
@@ -140,12 +131,6 @@
   font-size: 24px;
   font-weight: 600;
 }
-
-
-
-
-
-
 
 .digits {
   padding-top: 100px;
@@ -207,11 +192,6 @@
 
 }
 
-
-
-
-
-
 .feynman {
   padding-top: 100px;
   min-height: 890px;
@@ -266,10 +246,6 @@
   right: 48px;
 }
 
-
-
-
-
 .kaufman {
   position: relative;
   padding: 90px 0 90px;
@@ -285,7 +261,6 @@
 .section-subtitle_theme_dark {
   color: rgb(255, 255, 255);
 }
-
 
 .table__cell_theme_dark {
   z-index: 3;
@@ -304,9 +279,6 @@
   right: -210px;
   background-image: url('../images/kaufman-triangle.svg');
 }
-
-
-
 
 .footer {
   background-color: #1f1f1f;
