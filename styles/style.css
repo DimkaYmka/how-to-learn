@@ -193,6 +193,15 @@
 }
 
 .feynman {
+  display: flex;
+  flex-direction: column;
+  padding-top: 100px;
+  min-height: 890px;
+  background-color: #f2f2f2;
+  position: relative;
+}
+
+/*.feynman {
   padding-top: 100px;
   min-height: 890px;
   background-color: #f2f2f2;
@@ -213,7 +222,7 @@
   width: 867px;
   left: 0;
   bottom: 0;
-}
+} */
 
 .feynman__title {
   margin: 0 auto;
