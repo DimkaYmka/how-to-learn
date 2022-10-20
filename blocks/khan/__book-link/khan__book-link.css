@@ -1,0 +1,11 @@
+.khan__book-link {
+  margin:0 0 0 48px;
+  color: #2f80ed;
+  align-self: start;
+  opacity: 1;
+  transition: opacity  .3s ease;
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: normal;
+  text-decoration: none;
+}
